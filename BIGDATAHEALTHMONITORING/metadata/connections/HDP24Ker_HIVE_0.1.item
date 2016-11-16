@@ -35,4 +35,5 @@
   <parameters xmi:id="_3rj-Iav9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
   <parameters xmi:id="_3rj-Iqv9EeaeFOAbx7Uo8A" key="HIVE_SERVER_VERSION" value="HIVE2"/>
   <parameters xmi:id="_3rj-I6v9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_HIVE_MODE" value="STANDALONE"/>
+  <parameters xmi:id="_fY9vQKwdEea2joTjBBjaNA" key="CONN_PARA_KEY_HADOOP_CUSTOM_JARS"/>
 </TalendMetadata:DatabaseConnection>
