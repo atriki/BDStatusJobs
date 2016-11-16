@@ -190,16 +190,15 @@
       <elementValue xmi:id="_fokTwqwHEeaeFOAbx7Uo8A" elementRef="PROPERTY" value=""/>
       <elementValue xmi:id="_fokTw6wHEeaeFOAbx7Uo8A" elementRef="VALUE" value=""/>
     </elementParameter>
-    <routinesParameter xmi:id="_ddVogav7EeaeFOAbx7Uo8A" id="_W9lMQKv6EeaeFOAbx7Uo8A" name="DataOperation"/>
-    <routinesParameter xmi:id="_ddVogqv7EeaeFOAbx7Uo8A" id="_W9yAkKv6EeaeFOAbx7Uo8A" name="Mathematical"/>
-    <routinesParameter xmi:id="_ddVog6v7EeaeFOAbx7Uo8A" id="_W-CfQKv6EeaeFOAbx7Uo8A" name="Numeric"/>
-    <routinesParameter xmi:id="_ddVohKv7EeaeFOAbx7Uo8A" id="_W-Rv0Kv6EeaeFOAbx7Uo8A" name="Relational"/>
-    <routinesParameter xmi:id="_ddVohav7EeaeFOAbx7Uo8A" id="_W43EUKv6EeaeFOAbx7Uo8A" name="SQLike"/>
-    <routinesParameter xmi:id="_ddVohqv7EeaeFOAbx7Uo8A" id="_W-d9EKv6EeaeFOAbx7Uo8A" name="StringHandling"/>
-    <routinesParameter xmi:id="_ddVoh6v7EeaeFOAbx7Uo8A" id="_W-w4AKv6EeaeFOAbx7Uo8A" name="TalendDataGenerator"/>
-    <routinesParameter xmi:id="_ddVoiKv7EeaeFOAbx7Uo8A" id="_W-_hgKv6EeaeFOAbx7Uo8A" name="TalendDate"/>
-    <routinesParameter xmi:id="_ddVoiav7EeaeFOAbx7Uo8A" id="_W_QAMKv6EeaeFOAbx7Uo8A" name="TalendString"/>
-    <routinesParameter xmi:id="_adLfXqwFEeaeFOAbx7Uo8A" id="_7WzZUKwAEeaPSOjkDD4E0A" name="MDM"/>
+    <routinesParameter xmi:id="_nAeUMKwSEeaeFOAbx7Uo8A" id="_W9lMQKv6EeaeFOAbx7Uo8A" name="DataOperation"/>
+    <routinesParameter xmi:id="_nAeUMawSEeaeFOAbx7Uo8A" id="_W9yAkKv6EeaeFOAbx7Uo8A" name="Mathematical"/>
+    <routinesParameter xmi:id="_nAeUMqwSEeaeFOAbx7Uo8A" id="_W-CfQKv6EeaeFOAbx7Uo8A" name="Numeric"/>
+    <routinesParameter xmi:id="_nAeUM6wSEeaeFOAbx7Uo8A" id="_W-Rv0Kv6EeaeFOAbx7Uo8A" name="Relational"/>
+    <routinesParameter xmi:id="_nAeUNKwSEeaeFOAbx7Uo8A" id="_W43EUKv6EeaeFOAbx7Uo8A" name="SQLike"/>
+    <routinesParameter xmi:id="_nAeUNawSEeaeFOAbx7Uo8A" id="_W-d9EKv6EeaeFOAbx7Uo8A" name="StringHandling"/>
+    <routinesParameter xmi:id="_nAeUNqwSEeaeFOAbx7Uo8A" id="_W-w4AKv6EeaeFOAbx7Uo8A" name="TalendDataGenerator"/>
+    <routinesParameter xmi:id="_nAeUN6wSEeaeFOAbx7Uo8A" id="_W-_hgKv6EeaeFOAbx7Uo8A" name="TalendDate"/>
+    <routinesParameter xmi:id="_nAeUOKwSEeaeFOAbx7Uo8A" id="_W_QAMKv6EeaeFOAbx7Uo8A" name="TalendString"/>
   </parameters>
   <node xmi:id="_fokTxKwHEeaeFOAbx7Uo8A" componentName="tHDFSConfiguration" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="160" posY="96">
     <elementParameter xmi:id="_fokTxawHEeaeFOAbx7Uo8A" field="TEXT" name="UNIQUE_NAME" value="tHDFSConfiguration_1" show="false"/>
