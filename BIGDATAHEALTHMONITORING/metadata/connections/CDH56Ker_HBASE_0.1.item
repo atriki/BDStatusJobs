@@ -30,9 +30,10 @@
     <parameters xmi:id="_AD6wS6znEea2joTjBBjaNA" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
     <parameters xmi:id="_AD6wTKznEea2joTjBBjaNA" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="hdfs/_HOST@CDH.COM"/>
     <parameters xmi:id="_AD6wTaznEea2joTjBBjaNA" key="CONN_PARA_KEY_DB_PRODUCT" value="HBASE"/>
-    <parameters xmi:id="_AD6wTqznEea2joTjBBjaNA" key="CONN_PARA_KEY_KEYTAB" value="/homr/talend/cdh.56ker_automation.keytab*"/>
+    <parameters xmi:id="_AD6wTqznEea2joTjBBjaNA" key="CONN_PARA_KEY_KEYTAB" value="/home/talend/cdh.56ker_automation.keytab"/>
     <parameters xmi:id="_AD6wT6znEea2joTjBBjaNA" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
     <parameters xmi:id="_AD6wUKznEea2joTjBBjaNA" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+    <parameters xmi:id="_B4Q3IKzxEea2joTjBBjaNA" key="CONN_PARA_KEY_HADOOP_CUSTOM_JARS"/>
   </TalendMetadata:DatabaseConnection>
   <orgomg.cwm.resource.relational:Catalog xmi:id="_AD6wUaznEea2joTjBBjaNA" name="HBase" dataManager="_AD6wMKznEea2joTjBBjaNA"/>
 </xmi:XMI>

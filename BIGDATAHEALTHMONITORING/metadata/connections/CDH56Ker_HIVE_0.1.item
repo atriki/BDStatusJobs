@@ -27,10 +27,11 @@
   <parameters xmi:id="_AEL2AaznEea2joTjBBjaNA" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
   <parameters xmi:id="_AEL2AqznEea2joTjBBjaNA" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="hdfs/_HOST@CDH.COM"/>
   <parameters xmi:id="_AEL2A6znEea2joTjBBjaNA" key="CONN_PARA_KEY_DB_PRODUCT" value="HIVE"/>
-  <parameters xmi:id="_AEL2BKznEea2joTjBBjaNA" key="CONN_PARA_KEY_KEYTAB" value="/homr/talend/cdh.56ker_automation.keytab*"/>
+  <parameters xmi:id="_AEL2BKznEea2joTjBBjaNA" key="CONN_PARA_KEY_KEYTAB" value="/home/talend/cdh.56ker_automation.keytab"/>
   <parameters xmi:id="_AEL2BaznEea2joTjBBjaNA" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
   <parameters xmi:id="_AEL2BqznEea2joTjBBjaNA" key="HIVE_AUTHENTICATION_METASTOREURL" value="thrift://tal-qa111.talend.lan:9083"/>
   <parameters xmi:id="_AEL2B6znEea2joTjBBjaNA" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
   <parameters xmi:id="_AEL2CKznEea2joTjBBjaNA" key="HIVE_SERVER_VERSION" value="HIVE2"/>
   <parameters xmi:id="_AEL2CaznEea2joTjBBjaNA" key="CONN_PARA_KEY_HIVE_MODE" value="STANDALONE"/>
+  <parameters xmi:id="_B6BxsKzxEea2joTjBBjaNA" key="CONN_PARA_KEY_HADOOP_CUSTOM_JARS"/>
 </TalendMetadata:DatabaseConnection>
