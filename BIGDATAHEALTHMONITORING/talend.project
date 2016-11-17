@@ -221,6 +221,40 @@
       <relatedItems xmi:id="_a6va-6ziEea2joTjBBjaNA" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_a6va_KziEea2joTjBBjaNA" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_urqnwKziEea2joTjBBjaNA">
+      <baseItem xmi:id="_urqnwaziEea2joTjBBjaNA" id="_PrDEoC7VEeKDe-fbNmi8tQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_urqnwqziEea2joTjBBjaNA" id="_fo-eUPUBEeKSe5gtTyueTw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_urqnw6ziEea2joTjBBjaNA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnxKziEea2joTjBBjaNA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnxaziEea2joTjBBjaNA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnxqziEea2joTjBBjaNA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnx6ziEea2joTjBBjaNA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnyKziEea2joTjBBjaNA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnyaziEea2joTjBBjaNA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnyqziEea2joTjBBjaNA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqny6ziEea2joTjBBjaNA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnzKziEea2joTjBBjaNA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnzaziEea2joTjBBjaNA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnzqziEea2joTjBBjaNA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqnz6ziEea2joTjBBjaNA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_urqn0KziEea2joTjBBjaNA">
+      <baseItem xmi:id="_urqn0aziEea2joTjBBjaNA" id="_b_OssC7NEeKDe-fbNmi8tQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_urqn0qziEea2joTjBBjaNA" id="_fo-eUPUBEeKSe5gtTyueTw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_urqn06ziEea2joTjBBjaNA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqn1KziEea2joTjBBjaNA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqn1aziEea2joTjBBjaNA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqn1qziEea2joTjBBjaNA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqn16ziEea2joTjBBjaNA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urqn2KziEea2joTjBBjaNA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urrO0KziEea2joTjBBjaNA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urrO0aziEea2joTjBBjaNA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urrO0qziEea2joTjBBjaNA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urrO06ziEea2joTjBBjaNA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urrO1KziEea2joTjBBjaNA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urrO1aziEea2joTjBBjaNA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_urrO1qziEea2joTjBBjaNA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_WgEJ0Kv6EeaeFOAbx7Uo8A" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_WgEJ0av6EeaeFOAbx7Uo8A" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_WgEJ0qv6EeaeFOAbx7Uo8A" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
