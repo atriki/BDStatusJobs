@@ -7,6 +7,303 @@
     <documentationStatus xmi:id="_zSm_oK2QEea03JkFx_pPPA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_zSm_oa2QEea03JkFx_pPPA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_zSm_oq2QEea03JkFx_pPPA" label="validated" code="VAL"/>
+    <statAndLogsSettings xmi:id="_PF6HcK2REea03JkFx_pPPA">
+      <parameters xmi:id="_PF6Hca2REea03JkFx_pPPA">
+        <elementParameter xmi:id="_PGbE0K2REea03JkFx_pPPA" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE0a2REea03JkFx_pPPA" field="CHECK" name="STATS_DEFAULT_PROJECTSETTING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE0q2REea03JkFx_pPPA" field="CHECK" name="ON_STATCATCHER_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE062REea03JkFx_pPPA" field="CHECK" name="ON_LOGCATCHER_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE1K2REea03JkFx_pPPA" field="CHECK" name="ON_METERCATCHER_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE1a2REea03JkFx_pPPA" field="CHECK" name="ON_CONSOLE_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE1q2REea03JkFx_pPPA" field="CHECK" name="ON_FILES_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE162REea03JkFx_pPPA" field="DIRECTORY" name="FILE_PATH" value="&quot;C:/Users/atriki/talend/Talend-Studio-20161026_1012-V6.3.0EP(1)/Talend-Studio-20161026_1012-V6.3.0EP/workspace/.metadata&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE2K2REea03JkFx_pPPA" field="TEXT" name="FILENAME_STATS" value="&quot;stats_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE2a2REea03JkFx_pPPA" field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE2q2REea03JkFx_pPPA" field="TEXT" name="FILENAME_METTER" value="&quot;meter_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE262REea03JkFx_pPPA" field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE3K2REea03JkFx_pPPA" field="CHECK" name="ON_DATABASE_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE3a2REea03JkFx_pPPA" field="PROPERTY_TYPE" name="PROPERTY_TYPE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE3q2REea03JkFx_pPPA" field="CLOSED_LIST" name="DB_TYPE" value="tJDBCOutput" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE362REea03JkFx_pPPA" field="CLOSED_LIST" name="DB_VERSION" value="ORACLE_11" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE4K2REea03JkFx_pPPA" field="TEXT" name="URL" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE4a2REea03JkFx_pPPA" field="TABLE" name="DRIVER_JAR" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE4q2REea03JkFx_pPPA" field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE462REea03JkFx_pPPA" field="TEXT" name="HOST" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE5K2REea03JkFx_pPPA" field="TEXT" name="PORT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE5a2REea03JkFx_pPPA" field="TEXT" name="DBNAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE5q2REea03JkFx_pPPA" field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE562REea03JkFx_pPPA" field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE6K2REea03JkFx_pPPA" field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbE6a2REea03JkFx_pPPA" field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr4K2REea03JkFx_pPPA" field="PASSWORD" name="PASS" value="0RMsyjmybrE=" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr4a2REea03JkFx_pPPA" field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr4q2REea03JkFx_pPPA" field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr462REea03JkFx_pPPA" field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr5K2REea03JkFx_pPPA" field="DBTABLE" name="TABLE_METER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr5a2REea03JkFx_pPPA" field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr5q2REea03JkFx_pPPA" field="CHECK" name="CATCH_USER_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr562REea03JkFx_pPPA" field="CHECK" name="CATCH_USER_WARNING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr6K2REea03JkFx_pPPA" field="CHECK" name="CATCH_REALTIME_STATS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr6a2REea03JkFx_pPPA" field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr6q2REea03JkFx_pPPA" field="TECHNICAL" name="PROPERTY_TYPE:PROPERTY_TYPE" value="BUILT_IN" contextMode="false"/>
+        <elementParameter xmi:id="_PGbr662REea03JkFx_pPPA" field="TECHNICAL" name="PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
+      </parameters>
+    </statAndLogsSettings>
+    <implicitContextSettings xmi:id="_PGcS8K2REea03JkFx_pPPA">
+      <parameters xmi:id="_PGcS8a2REea03JkFx_pPPA">
+        <elementParameter xmi:id="_PGc6AK2REea03JkFx_pPPA" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Aa2REea03JkFx_pPPA" field="CHECK" name="IMPLICIT_TCONTEXTLOAD" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Aq2REea03JkFx_pPPA" field="CHECK" name="IMPLICT_DEFAULT_PROJECTSETTING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6A62REea03JkFx_pPPA" field="RADIO" name="FROM_FILE_FLAG_IMPLICIT_CONTEXT" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6BK2REea03JkFx_pPPA" field="RADIO" name="FROM_DATABASE_FLAG_IMPLICIT_CONTEXT" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Ba2REea03JkFx_pPPA" field="FILE" name="IMPLICIT_TCONTEXTLOAD_FILE" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Bq2REea03JkFx_pPPA" field="TEXT" name="FIELDSEPARATOR" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6B62REea03JkFx_pPPA" field="PROPERTY_TYPE" name="PROPERTY_TYPE_IMPLICIT_CONTEXT" value="" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6CK2REea03JkFx_pPPA" field="CLOSED_LIST" name="DB_TYPE_IMPLICIT_CONTEXT" value="" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Ca2REea03JkFx_pPPA" field="CLOSED_LIST" name="DB_VERSION_IMPLICIT_CONTEXT" value="" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Cq2REea03JkFx_pPPA" field="TEXT" name="HOST_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6C62REea03JkFx_pPPA" field="TEXT" name="PORT_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6DK2REea03JkFx_pPPA" field="TEXT" name="DBNAME_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Da2REea03JkFx_pPPA" field="TEXT" name="LOCAL_SERVICE_NAME_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Dq2REea03JkFx_pPPA" field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6D62REea03JkFx_pPPA" field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6EK2REea03JkFx_pPPA" field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Ea2REea03JkFx_pPPA" field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="0RMsyjmybrE=" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Eq2REea03JkFx_pPPA" field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6E62REea03JkFx_pPPA" field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6FK2REea03JkFx_pPPA" field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Fa2REea03JkFx_pPPA" field="CLOSED_LIST" name="LOAD_NEW_VARIABLE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Fq2REea03JkFx_pPPA" field="CLOSED_LIST" name="NOT_LOAD_OLD_VARIABLE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6F62REea03JkFx_pPPA" field="CHECK" name="PRINT_OPERATIONS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6GK2REea03JkFx_pPPA" field="CHECK" name="DISABLE_ERROR" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Ga2REea03JkFx_pPPA" field="CHECK" name="DISABLE_WARNINGS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6Gq2REea03JkFx_pPPA" field="CHECK" name="DISABLE_INFO" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6G62REea03JkFx_pPPA" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:PROPERTY_TYPE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_PGc6HK2REea03JkFx_pPPA" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
+      </parameters>
+    </implicitContextSettings>
+    <ItemsRelations xmi:id="_POkUMK2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POkUMa2REea03JkFx_pPPA" id="_ddKCUKv7EeaeFOAbx7Uo8A" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POkUMq2REea03JkFx_pPPA" id="_3jzwMKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POkUM62REea03JkFx_pPPA" id="_T4zsUKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POkUNK2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUNa2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUNq2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUN62REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUOK2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUOa2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUOq2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUO62REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUPK2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUPa2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POkUPq2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POkUP62REea03JkFx_pPPA" id="_b_OssC7NEeKDe-fbNmi8tQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POkUQK2REea03JkFx_pPPA" id="_fo-eUPUBEeKSe5gtTyueTw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_POkUQa2REea03JkFx_pPPA" id="_3qMFAKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POkUQq2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUQ62REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkURK2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkURa2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkURq2REea03JkFx_pPPA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUR62REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUSK2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUSa2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUSq2REea03JkFx_pPPA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUS62REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUTK2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUTa2REea03JkFx_pPPA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUTq2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POkUT62REea03JkFx_pPPA">
+      <baseItem xmi:id="_POkUUK2REea03JkFx_pPPA" id="_PrDEoC7VEeKDe-fbNmi8tQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POkUUa2REea03JkFx_pPPA" id="_fo-eUPUBEeKSe5gtTyueTw" version="Latest" type="context"/>
+      <relatedItems xmi:id="_POkUUq2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUU62REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUVK2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUVa2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUVq2REea03JkFx_pPPA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUV62REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUWK2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUWa2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUWq2REea03JkFx_pPPA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUW62REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUXK2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUXa2REea03JkFx_pPPA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUXq2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POkUX62REea03JkFx_pPPA">
+      <baseItem xmi:id="_POkUYK2REea03JkFx_pPPA" id="_COLoUKznEea2joTjBBjaNA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POkUYa2REea03JkFx_pPPA" id="_ADq4kKznEea2joTjBBjaNA" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POkUYq2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUY62REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUZK2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUZa2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUZq2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUZ62REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUaK2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUaa2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUaq2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POkUa62REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POk7QK2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POk7Qa2REea03JkFx_pPPA" id="_HKVMgErWEeW3A4PbdXJD3Q" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POk7Qq2REea03JkFx_pPPA" id="_3j5PwKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POk7Q62REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7RK2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Ra2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Rq2REea03JkFx_pPPA" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7R62REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7SK2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Sa2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Sq2REea03JkFx_pPPA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7S62REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7TK2REea03JkFx_pPPA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Ta2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Tq2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7T62REea03JkFx_pPPA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7UK2REea03JkFx_pPPA" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Ua2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POk7Uq2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POk7U62REea03JkFx_pPPA" id="_EkMMkKwaEea2joTjBBjaNA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POk7VK2REea03JkFx_pPPA" id="_3jzwMKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POk7Va2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Vq2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7V62REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7WK2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Wa2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Wq2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7W62REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7XK2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Xa2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Xq2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POk7X62REea03JkFx_pPPA">
+      <baseItem xmi:id="_POk7YK2REea03JkFx_pPPA" id="_QUg6oKwHEeaeFOAbx7Uo8A" version="0.1" type="joblet"/>
+      <relatedItems xmi:id="_POk7Ya2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Yq2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Y62REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7ZK2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Za2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Zq2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7Z62REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7aK2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7aa2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7aq2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POk7a62REea03JkFx_pPPA">
+      <baseItem xmi:id="_POk7bK2REea03JkFx_pPPA" id="_rluHUKzeEea2joTjBBjaNA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POk7ba2REea03JkFx_pPPA" id="_b_OssC7NEeKDe-fbNmi8tQ" version="Latest" type="job"/>
+      <relatedItems xmi:id="_POk7bq2REea03JkFx_pPPA" id="_R0rUkKwBEeaeFOAbx7Uo8A" version="Latest" type="job"/>
+      <relatedItems xmi:id="_POk7b62REea03JkFx_pPPA" id="_LHixAE71Eea5mMIsSfwK7Q" version="Latest" type="job"/>
+      <relatedItems xmi:id="_POk7cK2REea03JkFx_pPPA" id="_HKVMgErWEeW3A4PbdXJD3Q" version="Latest" type="job"/>
+      <relatedItems xmi:id="_POk7ca2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7cq2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7c62REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7dK2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7da2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7dq2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7d62REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7eK2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7ea2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7eq2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POk7e62REea03JkFx_pPPA">
+      <baseItem xmi:id="_POk7fK2REea03JkFx_pPPA" id="_LHixAE71Eea5mMIsSfwK7Q" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POk7fa2REea03JkFx_pPPA" id="_nE7lwIHdEeW5LrhKgl5jPQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_POk7fq2REea03JkFx_pPPA" id="_3p1fsKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POk7f62REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7gK2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7ga2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7gq2REea03JkFx_pPPA" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7g62REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7hK2REea03JkFx_pPPA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7ha2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7hq2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7h62REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7iK2REea03JkFx_pPPA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7ia2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7iq2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7i62REea03JkFx_pPPA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7jK2REea03JkFx_pPPA" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POk7ja2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POliUK2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POliUa2REea03JkFx_pPPA" id="_-IZ14KwOEeaeFOAbx7Uo8A" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POliUq2REea03JkFx_pPPA" id="_3jzwMKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POliU62REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliVK2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliVa2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliVq2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliV62REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliWK2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliWa2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliWq2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliW62REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliXK2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POliXa2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POliXq2REea03JkFx_pPPA" id="_ypXq4KzLEea2joTjBBjaNA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POliX62REea03JkFx_pPPA" id="_J67UkKzGEea2joTjBBjaNA" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POliYK2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliYa2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliYq2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliY62REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliZK2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliZa2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliZq2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliZ62REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliaK2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliaa2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POliaq2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POlia62REea03JkFx_pPPA" id="_gqstkKzFEea2joTjBBjaNA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POlibK2REea03JkFx_pPPA" id="_3jzwMKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POliba2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlibq2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlib62REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlicK2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlica2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlicq2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlic62REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlidK2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlida2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlidq2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POlid62REea03JkFx_pPPA">
+      <baseItem xmi:id="_POlieK2REea03JkFx_pPPA" id="_R0rUkKwBEeaeFOAbx7Uo8A" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POliea2REea03JkFx_pPPA" id="_3jzwMKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
+      <relatedItems xmi:id="_POlieq2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlie62REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlifK2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlifa2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlifq2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlif62REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POligK2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliga2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POligq2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlig62REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_POlihK2REea03JkFx_pPPA">
+      <baseItem xmi:id="_POliha2REea03JkFx_pPPA" id="_MtHzMNl0EeKhr-dSlREoWw" version="0.1" type="job"/>
+      <relatedItems xmi:id="_POlihq2REea03JkFx_pPPA" id="_ct__cOnTEeKexaLIE24xQA" version="Latest" type="context"/>
+      <relatedItems xmi:id="_POlih62REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliiK2REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliia2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POliiq2REea03JkFx_pPPA" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlii62REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlijK2REea03JkFx_pPPA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlija2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlijq2REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlij62REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlikK2REea03JkFx_pPPA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlika2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlikq2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlik62REea03JkFx_pPPA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlilK2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_POlila2REea03JkFx_pPPA" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_zMNcsK2QEea03JkFx_pPPA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zMODwK2QEea03JkFx_pPPA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zMODwa2QEea03JkFx_pPPA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>

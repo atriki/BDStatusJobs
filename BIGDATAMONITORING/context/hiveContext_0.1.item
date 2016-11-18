@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_O3B98K2REea03JkFx_pPPA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_O3B98a2REea03JkFx_pPPA" comment="" name="server" prompt="server?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B98q2REea03JkFx_pPPA" comment="" name="user" prompt="user?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B9862REea03JkFx_pPPA" comment="" name="hivePrincipal" prompt="hivePrincipal?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B99K2REea03JkFx_pPPA" comment="" name="nnPrincipal" prompt="nnPrincipal?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B99a2REea03JkFx_pPPA" comment="" name="rmPrincipal" prompt="rmPrincipal?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B99q2REea03JkFx_pPPA" comment="" name="userPrincipal" prompt="userPrincipal?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B9962REea03JkFx_pPPA" comment="" name="keytabPath" prompt="keytabPath?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B9-K2REea03JkFx_pPPA" comment="" name="clustername" prompt="clustername?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B9-a2REea03JkFx_pPPA" comment="" name="password" prompt="password?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_O3B9-q2REea03JkFx_pPPA" comment="" name="hivelogin" prompt="hivelogin?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
