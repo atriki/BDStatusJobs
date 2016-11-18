@@ -304,6 +304,23 @@
       <relatedItems xmi:id="_POlilK2REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_POlila2REea03JkFx_pPPA" id="DataQualityDependencies" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_pfY8oK2REea03JkFx_pPPA">
+      <baseItem xmi:id="_pfY8oa2REea03JkFx_pPPA" id="_ooGIQK2REea03JkFx_pPPA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_pfY8oq2REea03JkFx_pPPA" id="_b_OssC7NEeKDe-fbNmi8tQ" version="Latest" type="job"/>
+      <relatedItems xmi:id="_pfY8o62REea03JkFx_pPPA" id="_R0rUkKwBEeaeFOAbx7Uo8A" version="Latest" type="job"/>
+      <relatedItems xmi:id="_pfY8pK2REea03JkFx_pPPA" id="_LHixAE71Eea5mMIsSfwK7Q" version="Latest" type="job"/>
+      <relatedItems xmi:id="_pfY8pa2REea03JkFx_pPPA" id="_HKVMgErWEeW3A4PbdXJD3Q" version="Latest" type="job"/>
+      <relatedItems xmi:id="_pfY8pq2REea03JkFx_pPPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8p62REea03JkFx_pPPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8qK2REea03JkFx_pPPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8qa2REea03JkFx_pPPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8qq2REea03JkFx_pPPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8q62REea03JkFx_pPPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8rK2REea03JkFx_pPPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8ra2REea03JkFx_pPPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8rq2REea03JkFx_pPPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pfY8r62REea03JkFx_pPPA" id="MDM" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_zMNcsK2QEea03JkFx_pPPA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zMODwK2QEea03JkFx_pPPA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zMODwa2QEea03JkFx_pPPA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
