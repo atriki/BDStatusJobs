@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_nF7AUa2QEea03JkFx_pPPA" label="BigDataMonitoring" description="" language="java" technicalLabel="BIGDATAMONITORING" creationDate="2016-11-18T13:51:50.789+0100" author="_nF7AUq2QEea03JkFx_pPPA" productVersion="Talend Data Fabric-6.3.0.20161026_1012-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/atriki/BDStatusJobs&quot;,&quot;login&quot;:&quot;atriki@talend.com&quot;,&quot;passwd&quot;:&quot;B84026zRDAG5gZKdGH9NGQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_nF7AUa2QEea03JkFx_pPPA" label="BigDataMonitoring" description="" language="java" technicalLabel="BIGDATAMONITORING" creationDate="2016-11-18T13:51:50.789+0100" author="_nF7AUq2QEea03JkFx_pPPA" productVersion="Talend Data Fabric-6.3.0.20161026_1012-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/atriki/BDStatusJobs&quot;,&quot;login&quot;:&quot;atriki@talend.com&quot;,&quot;passwd&quot;:&quot;B84026zRDAG5gZKdGH9NGQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_zSzM4K2QEea03JkFx_pPPA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_zSzM4a2QEea03JkFx_pPPA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_zSzM4q2QEea03JkFx_pPPA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_zSm_oK2QEea03JkFx_pPPA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_zSm_oa2QEea03JkFx_pPPA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_zSm_oq2QEea03JkFx_pPPA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_zMNcsK2QEea03JkFx_pPPA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zMODwK2QEea03JkFx_pPPA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zMODwa2QEea03JkFx_pPPA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
