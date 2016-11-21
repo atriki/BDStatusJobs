@@ -37,7 +37,7 @@
     <parameters xmi:id="_3rN_26v9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
     <parameters xmi:id="_3rN_3Kv9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="nn/_HOST@HDP.COM"/>
     <parameters xmi:id="_3rN_3av9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_DB_PRODUCT" value="HBASE"/>
-    <parameters xmi:id="_3rN_3qv9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_KEYTAB" value="C:/Users/atriki/talend/keytabs/hdp.24ker_automation.keytab"/>
+    <parameters xmi:id="_3rN_3qv9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_KEYTAB" value="/home/talend/hdp.24ker_automation.keytab"/>
     <parameters xmi:id="_3rN_36v9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
     <parameters xmi:id="_3rN_4Kv9EeaeFOAbx7Uo8A" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
     <parameters xmi:id="_fVI_MKwdEea2joTjBBjaNA" key="CONN_PARA_KEY_HADOOP_CUSTOM_JARS"/>
