@@ -152,7 +152,7 @@
     <elementParameter field="PASSWORD" name="METASTORE_PASSWORD" value="SsYyuEyMCHg=" show="false"/>
     <elementParameter field="CHECK" name="USE_KEYTAB" value="true"/>
     <elementParameter field="TEXT" name="PRINCIPAL" value="&quot;automation@HDP.COM&quot;"/>
-    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;C:/Users/atriki/talend/keytabs/hdp.24ker_automation.keytab&quot;"/>
+    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;/home/talend/hdp.24ker_automation.keytab&quot;"/>
     <elementParameter field="CHECK" name="USE_MAPRTICKET" value="false" show="false"/>
     <elementParameter field="TEXT" name="MAPRTICKET_USERNAME" value="&quot;&quot;" show="false"/>
     <elementParameter field="PASSWORD" name="MAPRTICKET_PASSWORD" value="0RMsyjmybrE=" show="false"/>
@@ -382,7 +382,7 @@
     <elementParameter field="PASSWORD" name="METASTORE_PASSWORD" value="SsYyuEyMCHg=" show="false"/>
     <elementParameter field="CHECK" name="USE_KEYTAB" value="true"/>
     <elementParameter field="TEXT" name="PRINCIPAL" value="&quot;automation@HDP.COM&quot;"/>
-    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;C:/Users/atriki/talend/keytabs/hdp.24ker_automation.keytab&quot;"/>
+    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;/home/talend/hdp.24ker_automation.keytab&quot;"/>
     <elementParameter field="CHECK" name="USE_MAPRTICKET" value="false" show="false"/>
     <elementParameter field="TEXT" name="MAPRTICKET_USERNAME" value="&quot;&quot;" show="false"/>
     <elementParameter field="PASSWORD" name="MAPRTICKET_PASSWORD" value="0RMsyjmybrE=" show="false"/>
@@ -476,7 +476,8 @@
     <elementParameter field="TEXT" name="HADOOP_LOGIN" value="&quot;kerberos&quot;" show="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tHiveCreateTable_1">
-      <column comment="" key="false" length="-1" name="id" nullable="true" pattern="" precision="-1" sourceType="INT" type="id_String" originalLength="-1" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="id" nullable="true" pattern="" precision="-1" sourceType="" type="id_Integer" originalLength="-1" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="name" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
     <metadata connector="PARTITION" name="PARTITION"/>
   </node>
@@ -514,7 +515,7 @@
     <elementParameter field="PASSWORD" name="METASTORE_PASSWORD" value="SsYyuEyMCHg=" show="false"/>
     <elementParameter field="CHECK" name="USE_KEYTAB" value="true"/>
     <elementParameter field="TEXT" name="PRINCIPAL" value="&quot;automation@HDP.COM&quot;"/>
-    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;C:/Users/atriki/talend/keytabs/hdp.24ker_automation.keytab&quot;"/>
+    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;/home/talend/hdp.24ker_automation.keytab&quot;"/>
     <elementParameter field="CHECK" name="USE_MAPRTICKET" value="false" show="false"/>
     <elementParameter field="TEXT" name="MAPRTICKET_USERNAME" value="&quot;&quot;" show="false"/>
     <elementParameter field="PASSWORD" name="MAPRTICKET_PASSWORD" value="0RMsyjmybrE=" show="false"/>
