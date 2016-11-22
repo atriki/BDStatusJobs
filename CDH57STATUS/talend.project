@@ -117,6 +117,7 @@
       <relatedItems xmi:id="_DNwuP7CZEeabx9c82dMbkA" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_DNwuQLCZEeabx9c82dMbkA" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_DNwuQbCZEeabx9c82dMbkA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_q82cQLDKEeabx9c82dMbkA" id="_VDzFULDKEeabx9c82dMbkA" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_DNxVMLCZEeabx9c82dMbkA">
       <baseItem xmi:id="_DNxVMbCZEeabx9c82dMbkA" id="_EkMMkKwaEea2joTjBBjaNA" version="0.1" type="job"/>
