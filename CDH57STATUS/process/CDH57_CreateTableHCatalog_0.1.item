@@ -141,7 +141,7 @@
     <elementParameter field="TEXT" name="PERMISSIONS" value="&quot;rwxrw-r-x&quot;" show="false"/>
     <elementParameter field="TEXT" name="DB_LOCATION" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="DB_DESCRIPTION" value="&quot;&quot;" show="false"/>
-    <elementParameter field="TEXT" name="TABLE_NAME" value="HCatalogTable"/>
+    <elementParameter field="TEXT" name="TABLE_NAME" value="&quot;HCatalogTable&quot;"/>
     <elementParameter field="TEXT" name="PARTITION_NAME" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USERNAME" value="&quot;automation&quot;"/>
     <elementParameter field="CHECK" name="SET_PASSWORD" value="false"/>
