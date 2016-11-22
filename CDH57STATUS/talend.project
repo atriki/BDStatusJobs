@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="__QigELCXEeabx9c82dMbkA" label="CDH57Status" description="" language="java" technicalLabel="CDH57STATUS" creationDate="2016-11-18T15:13:50.567+0100" author="__QigEbCXEeabx9c82dMbkA" productVersion="Talend Data Fabric-6.3.0.20161026_1012-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/atriki/BDStatusJobs&quot;,&quot;login&quot;:&quot;atriki@talend.com&quot;,&quot;passwd&quot;:&quot;B84026zRDAG5gZKdGH9NGQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="__QigEbCXEeabx9c82dMbkA" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
