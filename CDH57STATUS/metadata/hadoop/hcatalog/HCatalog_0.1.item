@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendHCatalog:HCatalogConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHCatalog="http://www.talend.org/hcatalog" xmi:id="_VD06gLDKEeabx9c82dMbkA" name="HCatalog" label="HCatalog" relativeHadoopClusterId="_r_y9kKzFEea2joTjBBjaNA" hostName="tal-qa199.talend.com" userName="automation" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>
