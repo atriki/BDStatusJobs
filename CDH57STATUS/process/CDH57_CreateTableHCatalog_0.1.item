@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="HDFS_FileName" prompt="HDFS_FileName?" promptNeeded="false" repositoryContextId="_fo-eUPUBEeKSe5gtTyueTw" type="id_String" value="null"/>
-    <contextParameter comment="" name="HDFS_FilePath" prompt="HDFS_FilePath?" promptNeeded="false" repositoryContextId="_fo-eUPUBEeKSe5gtTyueTw" type="id_String" value="null"/>
-    <contextParameter comment="" name="HCatalog_Table" prompt="HCatalog_Table?" promptNeeded="false" repositoryContextId="_fo-eUPUBEeKSe5gtTyueTw" type="id_String" value="&quot;&quot;"/>
+    <contextParameter comment="" name="HDFS_FileName" prompt="HDFS_FileName?" promptNeeded="false" repositoryContextId="_fo-eUPUBEeKSe5gtTyueTw" type="id_String" value="&quot;/user/automation/table_automation/WriteHDFS.txt&quot;"/>
+    <contextParameter comment="" name="HDFS_FilePath" prompt="HDFS_FilePath?" promptNeeded="false" repositoryContextId="_fo-eUPUBEeKSe5gtTyueTw" type="id_String" value="&quot;/user/automation/table_automation/WriteHDFS.txt&quot;"/>
+    <contextParameter comment="" name="HCatalog_Table" prompt="HCatalog_Table?" promptNeeded="false" repositoryContextId="_fo-eUPUBEeKSe5gtTyueTw" type="id_String" value="&quot;HCatalogTestTable&quot;"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
