@@ -135,7 +135,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_1HCtv8LMEeaYU9-25GSlRA">
       <baseItem xmi:id="_1HCtwMLMEeaYU9-25GSlRA" id="_05yjYLACEealnvhdI-_lFQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_1HCtwcLMEeaYU9-25GSlRA" id="_3jzwMKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
       <relatedItems xmi:id="_1HCtwsLMEeaYU9-25GSlRA" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_1HCtw8LMEeaYU9-25GSlRA" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_1HCtxMLMEeaYU9-25GSlRA" id="Relational" version="Latest" type="routine"/>
