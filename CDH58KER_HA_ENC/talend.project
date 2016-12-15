@@ -99,6 +99,7 @@
       <relatedItems xmi:id="_1HCtnsLMEeaYU9-25GSlRA" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_1HCtn8LMEeaYU9-25GSlRA" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_1HCtoMLMEeaYU9-25GSlRA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_V8Z1gMLXEeaYU9-25GSlRA" id="_6vnrcLrQEea8GJy1Okn5Rw" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_1HCtocLMEeaYU9-25GSlRA">
       <baseItem xmi:id="_1HCtosLMEeaYU9-25GSlRA" id="_b_OssC7NEeKDe-fbNmi8tQ" version="0.1" type="job"/>
