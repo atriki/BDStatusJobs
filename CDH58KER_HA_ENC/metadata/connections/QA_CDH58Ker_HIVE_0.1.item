@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_60jOwLrQEea8GJy1Okn5Rw" DatabaseType="Hive" URL="jdbc:hive2://nameservice1:10000/default;principal=hive/_HOST@CDH.COM" Port="10000" Username="" ServerName="nameservice1" SID="default" DbmsId="hive_id" ProductId="HIVE">
+  <parameters xmi:id="_60jOwbrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_USE_YARN" value="true"/>
+  <parameters xmi:id="_60jOwrrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_RESOURCEMANAGER_SCHEDULER_ADDRESS" value="tal-qa208.talend.lan:8030"/>
+  <parameters xmi:id="_60jOw7rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_USEKEYTAB" value="true"/>
+  <parameters xmi:id="_60jOxLrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_USE_CUSTOM_CONFS" value="true"/>
+  <parameters xmi:id="_60jOxbrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_NAME_NODE_URL" value="hdfs://nameservice1"/>
+  <parameters xmi:id="_60jOxrrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_USERNAME" value=""/>
+  <parameters xmi:id="_60jOx7rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HADOOP_CLUSTER_ID" value="_VFXXgLrOEea8GJy1Okn5Rw"/>
+  <parameters xmi:id="_60jOyLrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_JOB_HISTORY_PRINCIPAL" value="hdfs/_HOST@CDH.COM"/>
+  <parameters xmi:id="_60jOybrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HBASE_VERSION" value="Cloudera_CDH5_8"/>
+  <parameters xmi:id="_60jOyrrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_JOB_TRACKER_URL" value="tal-qa208.talend.lan:8032"/>
+  <parameters xmi:id="_60jOy7rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_JOBHISTORY_ADDRESS" value="tal-qa210.talend.lan:10020"/>
+  <parameters xmi:id="_60jOzLrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HIVE_VERSION" value="Cloudera_CDH5_8"/>
+  <parameters xmi:id="_60jOzbrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_USE_DATANODE_HOSTNAME" value="true"/>
+  <parameters xmi:id="_60jOzrrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_DB_SERVER" value="nameservice1"/>
+  <parameters xmi:id="_60jOz7rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_DB_TYPE" value="Hive"/>
+  <parameters xmi:id="_60jO0LrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_MAPRDB_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_60jO0brQEea8GJy1Okn5Rw" key="HIVE_AUTHENTICATION_HIVEPRINCIPLA" value="hive/_HOST@CDH.COM"/>
+  <parameters xmi:id="_60jO0rrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_JOB_TRACKER_PRINCIPAL" value="yarn/_HOST@CDH.COM"/>
+  <parameters xmi:id="_60jO07rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HIVE_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_60jO1LrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_MAPRDB_VERSION" value="Cloudera_CDH5_8"/>
+  <parameters xmi:id="_60jO1brQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_KEYTAB_PRINCIPLA" value="automation@CDH.COM"/>
+  <parameters xmi:id="_60jO1rrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_MAPRDB_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_60jO17rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_USE_KRB" value="true"/>
+  <parameters xmi:id="_60jO2LrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HBASE_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_60jO2brQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
+  <parameters xmi:id="_60jO2rrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="hdfs/_HOST@CDH.COM"/>
+  <parameters xmi:id="_60jO27rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_DB_PRODUCT" value="HIVE"/>
+  <parameters xmi:id="_60jO3LrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_KEYTAB" value="C:/Users/kmouzouri.TALEND/cdh.58ker_automation.keytab"/>
+  <parameters xmi:id="_60jO3brQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_60jO3rrQEea8GJy1Okn5Rw" key="HIVE_AUTHENTICATION_METASTOREURL" value="thrift://tal-qa209.talend.lan:9083"/>
+  <parameters xmi:id="_60jO37rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_60jO4LrQEea8GJy1Okn5Rw" key="HIVE_SERVER_VERSION" value="HIVE2"/>
+  <parameters xmi:id="_60jO4brQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HIVE_MODE" value="STANDALONE"/>
+  <parameters xmi:id="_-CzBgLrSEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HADOOP_CUSTOM_JARS"/>
+</TalendMetadata:DatabaseConnection>
