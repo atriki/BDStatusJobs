@@ -30,7 +30,7 @@
     <parameters xmi:id="_60Y2y7rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
     <parameters xmi:id="_60Y2zLrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="hdfs/_HOST@CDH.COM"/>
     <parameters xmi:id="_60Y2zbrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_DB_PRODUCT" value="HBASE"/>
-    <parameters xmi:id="_60Y2zrrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_KEYTAB" value="C:/Users/kmouzouri.TALEND/cdh.58ker_automation.keytab"/>
+    <parameters xmi:id="_60Y2zrrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_KEYTAB" value="C:/Users/atriki/talend/keytabs/cdh.58ker_automation.keytab"/>
     <parameters xmi:id="_60Y2z7rQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
     <parameters xmi:id="_60Y20LrQEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
     <parameters xmi:id="_-CgtoLrSEea8GJy1Okn5Rw" key="CONN_PARA_KEY_HADOOP_CUSTOM_JARS"/>
