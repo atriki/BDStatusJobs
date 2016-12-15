@@ -145,6 +145,7 @@
       <relatedItems xmi:id="_1HCtyMLMEeaYU9-25GSlRA" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_1HCtycLMEeaYU9-25GSlRA" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_1HCtysLMEeaYU9-25GSlRA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jAERYMLdEeaYU9-25GSlRA" id="_6zllcLrQEea8GJy1Okn5Rw" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_1HCty8LMEeaYU9-25GSlRA">
       <baseItem xmi:id="_1HCtzMLMEeaYU9-25GSlRA" id="_QUg6oKwHEeaeFOAbx7Uo8A" version="0.1" type="joblet"/>
