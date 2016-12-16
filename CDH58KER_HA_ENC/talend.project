@@ -580,4 +580,5 @@
     <migrationTask xmi:id="_sU88s8NXEeaH0qduSUa6zw" id="org.talend.mdm.repository.core.migrate.UpdateOperatorMigrationTask" breaks="6.2.0" version="6.2.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_DSP58sLLEeaYU9-25GSlRA" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_sVnEAMNXEeaH0qduSUa6zw" login="Trigger-Runner" type="MDM"/>
 </xmi:XMI>
