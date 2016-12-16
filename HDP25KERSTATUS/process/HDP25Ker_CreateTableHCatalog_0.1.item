@@ -244,9 +244,9 @@
       <elementValue elementRef="VALUE" value="&quot;/hdp/apps/${hdp.version}/mapreduce/mapreduce.tar.gz#mr-framework&quot;"/>
       <elementValue elementRef="BUILDIN" value=""/>
     </elementParameter>
-    <elementParameter field="CHECK" name="ACTIVATE_LOG" value="true"/>
-    <elementParameter field="DIRECTORY" name="STDOUT" value="&quot;E:/builds/Talend-Studio-r93471-V5.2.1NB/workspace&quot;"/>
-    <elementParameter field="DIRECTORY" name="STDERR" value="&quot;E:/builds/Talend-Studio-r93471-V5.2.1NB/workspace&quot;"/>
+    <elementParameter field="CHECK" name="ACTIVATE_LOG" value="false"/>
+    <elementParameter field="DIRECTORY" name="STDOUT" value="&quot;E:/builds/Talend-Studio-r93471-V5.2.1NB/workspace&quot;" show="false"/>
+    <elementParameter field="DIRECTORY" name="STDERR" value="&quot;E:/builds/Talend-Studio-r93471-V5.2.1NB/workspace&quot;" show="false"/>
     <elementParameter field="CHECK" name="SET_MAPR_HOME_DIR" value="false" show="false"/>
     <elementParameter field="TEXT" name="MAPR_HOME_DIR" value="&quot;/opt/mapr&quot;" show="false"/>
     <elementParameter field="CHECK" name="SET_HADOOP_LOGIN" value="false" show="false"/>
