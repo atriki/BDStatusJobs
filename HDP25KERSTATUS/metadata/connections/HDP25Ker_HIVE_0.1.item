@@ -29,10 +29,11 @@
   <parameters xmi:id="_27Py-8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
   <parameters xmi:id="_27Py_MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="nn/_HOST@HDP.COM"/>
   <parameters xmi:id="_27Py_cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_PRODUCT" value="HIVE"/>
-  <parameters xmi:id="_27Py_sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_KEYTAB" value="C:/Users/atriki/talend/keytabs/hdp.25ker_automation.keytab"/>
+  <parameters xmi:id="_27Py_sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_KEYTAB" value="/home/talend/hdp.25ker_automation.keytab"/>
   <parameters xmi:id="_27Py_8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
   <parameters xmi:id="_27PzAMOMEeauzsIBkaMBxg" key="HIVE_AUTHENTICATION_METASTOREURL" value="thrift://tal-qa140.talend.lan:9083"/>
   <parameters xmi:id="_27PzAcOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
   <parameters xmi:id="_27PzAsOMEeauzsIBkaMBxg" key="HIVE_SERVER_VERSION" value="HIVE2"/>
   <parameters xmi:id="_27PzA8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_MODE" value="STANDALONE"/>
+  <parameters xmi:id="_zvYkwMOVEeauzsIBkaMBxg" key="CONN_PARA_KEY_HADOOP_CUSTOM_JARS"/>
 </TalendMetadata:DatabaseConnection>
