@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_WsrEgMOKEeauzsIBkaMBxg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_WsrEgcOKEeauzsIBkaMBxg" comment="" name="HDFS_FileName" prompt="HDFS_FileName?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_WsrEgsOKEeauzsIBkaMBxg" comment="" name="HDFS_FilePath" prompt="HDFS_FilePath?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_WsrEg8OKEeauzsIBkaMBxg" comment="" name="HCatalog_Table" prompt="HCatalog_Table?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+</talendfile:ContextType>
