@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TalendHDFS:HDFSConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHDFS="http://www.talend.org/hdfs" xmi:id="_260VEMOMEeauzsIBkaMBxg" relativeHadoopClusterId="_Q_-K8MOLEeauzsIBkaMBxg" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>
+<TalendHDFS:HDFSConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendHDFS="http://www.talend.org/hdfs" xmi:id="_260VEMOMEeauzsIBkaMBxg" name="HDP25Ker_HDFS" label="HDP25Ker_HDFS" relativeHadoopClusterId="_Q_-K8MOLEeauzsIBkaMBxg" rowSeparator="&quot;\n&quot;" fieldSeparator="&quot;;&quot;"/>
