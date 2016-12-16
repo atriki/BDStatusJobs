@@ -2,7 +2,7 @@
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default">
     <contextParameter comment="" name="table_name" prompt="table_name?" promptNeeded="false" type="id_String" value="&quot;table_name&quot;"/>
-    <contextParameter comment="" name="location" prompt="location?" promptNeeded="false" type="id_String" value="&quot;location&quot;"/>
+    <contextParameter comment="" name="location" prompt="location?" promptNeeded="false" type="id_String" value="&quot;/user/automation&quot;"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M -Dhadoop.login=hybrid_keytab " show="false"/>
