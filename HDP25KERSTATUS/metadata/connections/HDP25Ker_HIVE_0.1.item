@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_27Py4MOMEeauzsIBkaMBxg" DatabaseType="Hive" URL="jdbc:hive2://tal-qa139.talend.lan:10000/default;principal=hive/_HOST@HDP.COM" Port="10000" Username="" ServerName="tal-qa139.talend.lan" SID="default" DbmsId="hive_id" ProductId="HIVE">
+  <parameters xmi:id="_27Py4cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_YARN" value="true"/>
+  <parameters xmi:id="_27Py4sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_RESOURCEMANAGER_SCHEDULER_ADDRESS" value="tal-qa139.talend.lan:8030"/>
+  <parameters xmi:id="_27Py48OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USEKEYTAB" value="true"/>
+  <parameters xmi:id="_27Py5MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_CUSTOM_CONFS" value="true"/>
+  <parameters xmi:id="_27Py5cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_NAME_NODE_URL" value="hdfs://tal-qa139.talend.lan:8020"/>
+  <parameters xmi:id="_27Py5sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USERNAME" value=""/>
+  <parameters xmi:id="_27Py58OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HADOOP_CLUSTER_ID" value="_Q_-K8MOLEeauzsIBkaMBxg"/>
+  <parameters xmi:id="_27Py6MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOB_HISTORY_PRINCIPAL" value="hdfs/_HOST@HDP.COM"/>
+  <parameters xmi:id="_27Py6cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_VERSION" value="HDP_2_5"/>
+  <parameters xmi:id="_27Py6sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOB_TRACKER_URL" value="tal-qa139.talend.lan:8050"/>
+  <parameters xmi:id="_27Py68OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOBHISTORY_ADDRESS" value="tal-qa139.talend.lan:10020"/>
+  <parameters xmi:id="_27Py7MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_VERSION" value="HDP_2_5"/>
+  <parameters xmi:id="_27Py7cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_DATANODE_HOSTNAME" value="true"/>
+  <parameters xmi:id="_27Py7sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_SERVER" value="tal-qa139.talend.lan"/>
+  <parameters xmi:id="_27Py78OMEeauzsIBkaMBxg" key="HIVE_AUTHENTICATION_USERNAME" value="hive"/>
+  <parameters xmi:id="_27Py8MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_TYPE" value="Hive"/>
+  <parameters xmi:id="_27Py8cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_MAPRDB_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_27Py8sOMEeauzsIBkaMBxg" key="HIVE_AUTHENTICATION_HIVEPRINCIPLA" value="hive/_HOST@HDP.COM"/>
+  <parameters xmi:id="_27Py88OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOB_TRACKER_PRINCIPAL" value="rm/_HOST@HDP.COM"/>
+  <parameters xmi:id="_27Py9MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_DISTRIBUTION" value="HORTONWORKS"/>
+  <parameters xmi:id="_27Py9cOMEeauzsIBkaMBxg" key="HIVE_AUTHENTICATION_PASSWORD" value="SECRET:hive-site:3:javax.jdo.option.ConnectionPassword"/>
+  <parameters xmi:id="_27Py9sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_MAPRDB_VERSION" value="HDP_2_5"/>
+  <parameters xmi:id="_27Py98OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_KEYTAB_PRINCIPLA" value="automation@HDP.COM"/>
+  <parameters xmi:id="_27Py-MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_MAPRDB_DISTRIBUTION" value="HORTONWORKS"/>
+  <parameters xmi:id="_27Py-cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_KRB" value="true"/>
+  <parameters xmi:id="_27Py-sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_DISTRIBUTION" value="HORTONWORKS"/>
+  <parameters xmi:id="_27Py-8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
+  <parameters xmi:id="_27Py_MOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="nn/_HOST@HDP.COM"/>
+  <parameters xmi:id="_27Py_cOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_PRODUCT" value="HIVE"/>
+  <parameters xmi:id="_27Py_sOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_KEYTAB" value="C:/Users/atriki/talend/keytabs/hdp.25ker_automation.keytab"/>
+  <parameters xmi:id="_27Py_8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_27PzAMOMEeauzsIBkaMBxg" key="HIVE_AUTHENTICATION_METASTOREURL" value="thrift://tal-qa140.talend.lan:9083"/>
+  <parameters xmi:id="_27PzAcOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_27PzAsOMEeauzsIBkaMBxg" key="HIVE_SERVER_VERSION" value="HIVE2"/>
+  <parameters xmi:id="_27PzA8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_MODE" value="STANDALONE"/>
+</TalendMetadata:DatabaseConnection>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_27g4oMOMEeauzsIBkaMBxg" dataPackage="_27g4wcOMEeauzsIBkaMBxg" DatabaseType="HBase" Port="2181" Username="" ServerName="tal-qa139.talend.lan,tal-qa140.talend.lan" SID="HBase" DbmsId="mysql_id" ProductId="HBASE">
+    <parameters xmi:id="_27g4ocOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_PORT" value="2181"/>
+    <parameters xmi:id="_27g4osOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_YARN" value="true"/>
+    <parameters xmi:id="_27g4o8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_RESOURCEMANAGER_SCHEDULER_ADDRESS" value="tal-qa139.talend.lan:8030"/>
+    <parameters xmi:id="_27g4pMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USEKEYTAB" value="true"/>
+    <parameters xmi:id="_27g4pcOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_CUSTOM_CONFS" value="true"/>
+    <parameters xmi:id="_27g4psOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_REGIONSERVERPRINCIPAL" value="hbase/_HOST@HDP.COM"/>
+    <parameters xmi:id="_27g4p8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_NAME_NODE_URL" value="hdfs://tal-qa139.talend.lan:8020"/>
+    <parameters xmi:id="_27g4qMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USERNAME" value=""/>
+    <parameters xmi:id="_27g4qcOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HADOOP_CLUSTER_ID" value="_Q_-K8MOLEeauzsIBkaMBxg"/>
+    <parameters xmi:id="_27g4qsOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOB_HISTORY_PRINCIPAL" value="hdfs/_HOST@HDP.COM"/>
+    <parameters xmi:id="_27g4q8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_VERSION" value="HDP_2_5"/>
+    <parameters xmi:id="_27g4rMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOB_TRACKER_URL" value="tal-qa139.talend.lan:8050"/>
+    <parameters xmi:id="_27g4rcOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOBHISTORY_ADDRESS" value="tal-qa139.talend.lan:10020"/>
+    <parameters xmi:id="_27g4rsOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_VERSION" value="HDP_2_5"/>
+    <parameters xmi:id="_27g4r8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_DATANODE_HOSTNAME" value="true"/>
+    <parameters xmi:id="_27g4sMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_SERVER" value="tal-qa139.talend.lan,tal-qa140.talend.lan"/>
+    <parameters xmi:id="_27g4scOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_TYPE" value="HBase"/>
+    <parameters xmi:id="_27g4ssOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_MAPRDB_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+    <parameters xmi:id="_27g4s8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_JOB_TRACKER_PRINCIPAL" value="rm/_HOST@HDP.COM"/>
+    <parameters xmi:id="_27g4tMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_DISTRIBUTION" value="HORTONWORKS"/>
+    <parameters xmi:id="_27g4tcOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_MAPRDB_VERSION" value="HDP_2_5"/>
+    <parameters xmi:id="_27g4tsOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_KEYTAB_PRINCIPLA" value="automation@HDP.COM"/>
+    <parameters xmi:id="_27g4t8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_MAPRDB_DISTRIBUTION" value="HORTONWORKS"/>
+    <parameters xmi:id="_27g4uMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_MASTERPRINCIPAL" value="hbase/_HOST@HDP.COM"/>
+    <parameters xmi:id="_27g4ucOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_USE_KRB" value="true"/>
+    <parameters xmi:id="_27g4usOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_DISTRIBUTION" value="HORTONWORKS"/>
+    <parameters xmi:id="_27g4u8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
+    <parameters xmi:id="_27g4vMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="nn/_HOST@HDP.COM"/>
+    <parameters xmi:id="_27g4vcOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_DB_PRODUCT" value="HBASE"/>
+    <parameters xmi:id="_27g4vsOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_KEYTAB" value="C:/Users/atriki/talend/keytabs/hdp.25ker_automation.keytab"/>
+    <parameters xmi:id="_27g4v8OMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+    <parameters xmi:id="_27g4wMOMEeauzsIBkaMBxg" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_27g4wcOMEeauzsIBkaMBxg" name="HBase" dataManager="_27g4oMOMEeauzsIBkaMBxg"/>
+</xmi:XMI>
