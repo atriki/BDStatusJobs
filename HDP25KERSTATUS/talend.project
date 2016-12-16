@@ -98,7 +98,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_XKYUX8OKEeauzsIBkaMBxg">
       <baseItem xmi:id="_XKYUYMOKEeauzsIBkaMBxg" id="_05yjYLACEealnvhdI-_lFQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_XKYUYcOKEeauzsIBkaMBxg" id="_3jzwMKv9EeaeFOAbx7Uo8A" version="Latest" type="property"/>
       <relatedItems xmi:id="_XKYUYsOKEeauzsIBkaMBxg" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_XKYUY8OKEeauzsIBkaMBxg" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_XKYUZMOKEeauzsIBkaMBxg" id="Relational" version="Latest" type="routine"/>
@@ -108,6 +107,7 @@
       <relatedItems xmi:id="_XKYUaMOKEeauzsIBkaMBxg" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_XKYUacOKEeauzsIBkaMBxg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_XKYUasOKEeauzsIBkaMBxg" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_n5ifgMOSEeauzsIBkaMBxg" id="_2xgBAMOMEeauzsIBkaMBxg" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_XKYUa8OKEeauzsIBkaMBxg">
       <baseItem xmi:id="_XKYUbMOKEeauzsIBkaMBxg" id="_QUg6oKwHEeaeFOAbx7Uo8A" version="0.1" type="joblet"/>
