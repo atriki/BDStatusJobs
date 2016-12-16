@@ -151,7 +151,7 @@
     <elementParameter field="TEXT" name="HBASE_REGIONSERVER_PRINCIPAL" value="&quot;hbase/_HOST@CDH.COM&quot;"/>
     <elementParameter field="CHECK" name="USE_KEYTAB" value="true"/>
     <elementParameter field="TEXT" name="PRINCIPAL" value="&quot;automation@CDH.COM&quot;"/>
-    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;C:/Users/atriki/talend/keytabs/cdh.58ker_automation.keytab&quot;"/>
+    <elementParameter field="FILE" name="KEYTAB_PATH" value="&quot;/home/talend/cdh58kerHAEnc/cdh.58ker_automation.keytab&quot;"/>
     <elementParameter field="CHECK" name="USE_MAPRTICKET" value="false" show="false"/>
     <elementParameter field="TEXT" name="USERNAME" value="&quot;root&quot;" show="false"/>
     <elementParameter field="PASSWORD" name="MAPRTICKET_PASSWORD" value="VVscPYcf6eQ=" show="false"/>
