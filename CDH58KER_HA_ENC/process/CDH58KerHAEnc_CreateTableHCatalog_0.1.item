@@ -239,7 +239,14 @@
     <elementParameter field="CHECK" name="CUSTOM_ENCODING" value="false"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;" show="false"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15" show="false"/>
-    <elementParameter field="TABLE" name="HADOOP_ADVANCED_PROPERTIES"/>
+    <elementParameter field="TABLE" name="HADOOP_ADVANCED_PROPERTIES">
+      <elementValue elementRef="PROPERTY" value="&quot;hadoop.security.key.provider.path&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;kms://https@tal-qa208.talend.lan:16000/kms&quot;"/>
+      <elementValue elementRef="BUILDIN" value=""/>
+      <elementValue elementRef="PROPERTY" value="&quot;dfs.encryption.key.provider.uri&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;kms://https@tal-qa208.talend.lan:16000/kms&quot;"/>
+      <elementValue elementRef="BUILDIN" value=""/>
+    </elementParameter>
     <elementParameter field="CHECK" name="ACTIVATE_LOG" value="true"/>
     <elementParameter field="DIRECTORY" name="STDOUT" value="&quot;E:/builds/Talend-Studio-r93471-V5.2.1NB/workspace&quot;"/>
     <elementParameter field="DIRECTORY" name="STDERR" value="&quot;E:/builds/Talend-Studio-r93471-V5.2.1NB/workspace&quot;"/>
