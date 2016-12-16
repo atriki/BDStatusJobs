@@ -153,6 +153,7 @@
       <relatedItems xmi:id="_4WM_7sOKEeauzsIBkaMBxg" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_4WM_78OKEeauzsIBkaMBxg" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_4WM_8MOKEeauzsIBkaMBxg" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_RiwyIMOPEeauzsIBkaMBxg" id="_26wDoMOMEeauzsIBkaMBxg" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_4WM_8cOKEeauzsIBkaMBxg">
       <baseItem xmi:id="_4WM_8sOKEeauzsIBkaMBxg" id="_b_OssC7NEeKDe-fbNmi8tQ" version="0.1" type="job"/>
