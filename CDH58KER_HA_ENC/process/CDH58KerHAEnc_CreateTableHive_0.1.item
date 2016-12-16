@@ -457,7 +457,14 @@
     <elementParameter field="LABEL" name="NOTE" value="If you are on Windows, add a '/' in front of the path you type in."/>
     <elementParameter field="CHECK" name="SET_TEMP_PATH" value="false"/>
     <elementParameter field="DIRECTORY" name="TEMP_PATH" value="&quot;&quot;" show="false"/>
-    <elementParameter field="TABLE" name="HADOOP_ADVANCED_PROPERTIES"/>
+    <elementParameter field="TABLE" name="HADOOP_ADVANCED_PROPERTIES">
+      <elementValue elementRef="PROPERTY" value="&quot;hadoop.security.key.provider.path&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;kms://https@tal-qa208.talend.lan:16000/kms&quot;"/>
+      <elementValue elementRef="BUILDIN" value=""/>
+      <elementValue elementRef="PROPERTY" value="&quot;dfs.encryption.key.provider.uri&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;kms://https@tal-qa208.talend.lan:16000/kms&quot;"/>
+      <elementValue elementRef="BUILDIN" value=""/>
+    </elementParameter>
     <elementParameter field="TABLE" name="ADVANCED_PROPERTIES"/>
     <elementParameter field="TEXT" name="MAPRED_JOB_MAP_MEMORY_MB" value="&quot;1000&quot;" show="false"/>
     <elementParameter field="TEXT" name="MAPRED_JOB_REDUCE_MEMORY_MB" value="&quot;1000&quot;" show="false"/>
@@ -568,7 +575,14 @@
     <elementParameter field="LABEL" name="NOTE" value="If you are on Windows, add a '/' in front of the path you type in."/>
     <elementParameter field="CHECK" name="SET_TEMP_PATH" value="false"/>
     <elementParameter field="DIRECTORY" name="TEMP_PATH" value="&quot;&quot;" show="false"/>
-    <elementParameter field="TABLE" name="HADOOP_ADVANCED_PROPERTIES"/>
+    <elementParameter field="TABLE" name="HADOOP_ADVANCED_PROPERTIES">
+      <elementValue elementRef="PROPERTY" value="&quot;hadoop.security.key.provider.path&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;kms://https@tal-qa208.talend.lan:16000/kms&quot;"/>
+      <elementValue elementRef="BUILDIN" value=""/>
+      <elementValue elementRef="PROPERTY" value="&quot;dfs.encryption.key.provider.uri&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;kms://https@tal-qa208.talend.lan:16000/kms&quot;"/>
+      <elementValue elementRef="BUILDIN" value=""/>
+    </elementParameter>
     <elementParameter field="TABLE" name="ADVANCED_PROPERTIES"/>
     <elementParameter field="TEXT" name="MAPRED_JOB_MAP_MEMORY_MB" value="&quot;1000&quot;" show="false"/>
     <elementParameter field="TEXT" name="MAPRED_JOB_REDUCE_MEMORY_MB" value="&quot;1000&quot;" show="false"/>
