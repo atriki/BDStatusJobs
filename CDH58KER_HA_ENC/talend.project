@@ -589,4 +589,7 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_DSP58sLLEeaYU9-25GSlRA" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_sVnEAMNXEeaH0qduSUa6zw" login="Trigger-Runner" type="MDM"/>
+  <TalendProperties:User xmi:id="_oI4awOKZEeaTP-SeaV_2Xw" login="admin1@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_oI4aweKZEeaTP-SeaV_2Xw" login="admin2@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_oI4awuKZEeaTP-SeaV_2Xw" login="admin3@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
 </xmi:XMI>
